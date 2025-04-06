@@ -141,9 +141,9 @@ document.addEventListener('DOMContentLoaded', function() {
             
             setTimeout(() => {
                 if (lang === 'en') {
-                    window.location.href = 'https://saimaunglenn.pythonanywhere.com/';
+                    window.location.href = 'https://telemeetbot.github.io/engguide';
                 } else {
-                    window.location.href = 'https://lennfx.pythonanywhere.com/';
+                    window.location.href = 'https://telemeetbot.github.io/mmguide';
                 }
             }, 1000);
         });
